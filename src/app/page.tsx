@@ -18,7 +18,7 @@ export default function Home() {
             transition={{ duration: 0.5 }}
             className="text-8xl font-light mb-12 lowercase whitespace-nowrap"
           >
-            hi, i'm jason bui
+            hi, i&apos;m jason bui
           </motion.h1>
 
           <motion.p 
