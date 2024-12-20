@@ -4,6 +4,11 @@ import { motion } from 'framer-motion'
 import Link from 'next/link'
 import './globals.css'
 
+export const metadata = {
+  title: 'Your Site Title',
+  description: 'Your Site Description',
+}
+
 export default function RootLayout({
   children,
 }: {
